@@ -1,1 +1,1 @@
-
+This folder contains static assets used by the Health Prediction Application, including CSS files for styling the user interface. Static resources are served directly by Flask and are used to enhance the appearance and user experience of the application.
